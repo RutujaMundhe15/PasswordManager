@@ -1,6 +1,4 @@
-Certainly! Here's the revised README description with the name "PasswordManager":
 
----
 
 # PasswordManager
 
@@ -41,7 +39,7 @@ PasswordManager is an Android application designed specifically for senior citiz
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/PasswordManager.git
+   git clone https://github.com/RutujaMundhe15/PasswordManager.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the project on your Android device or emulator.
@@ -56,4 +54,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to modify this as needed!
